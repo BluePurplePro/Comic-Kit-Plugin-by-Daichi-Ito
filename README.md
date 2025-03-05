@@ -8,4 +8,5 @@ Backup for Comic Kit (Photoshop Plugin), compatible with Photoshop CC 2014 and n
 - MacOS:
   + Copy or Move `Deco` folder to `User/Library/Application Support/Adobe/Adobe Photoshop ####/Presets`
   + Copy or Move `Presets` folder to `Applications/Adobe Photoshop ####`
-Quick access to `User/Library/Application Support/Adobe`: Press `Cmd+Shift+G` > Type `~/Library/Application Support/Adobe` > Hit Return (Enter)
+
+Quick access to `User/Library/Application Support/Adobe`: Press `Cmd` `Shift` `G` > Type `~/Library/Application Support/Adobe` > Hit Return (Enter)
